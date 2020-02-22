@@ -1,0 +1,14 @@
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.csprojAssemblyReference.cache
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.Form1.resources
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.Properties.Resources.resources
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.csproj.GenerateResource.cache
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\bin\Debug\DrawByMouse.exe.config
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\bin\Debug\DrawByMouse.exe
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\bin\Debug\DrawByMouse.pdb
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.exe
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.pdb
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.Form2.resources
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\bin\Debug\DrawByMouse.exe.manifest
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\bin\Debug\DrawByMouse.application
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.exe.manifest
+C:\Users\Mitchell\Documents\DrawByMouse\DrawByMouse\DrawByMouse\obj\Debug\DrawByMouse.application

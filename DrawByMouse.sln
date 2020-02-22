@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawByMouse", "DrawByMouse\DrawByMouse.csproj", "{57969F94-E77E-4523-BCBB-370C1785CC06}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMirror", "SetupMirror\SetupMirror.vdproj", "{4D42BC8A-6E22-45A3-B5F5-552C85EE6D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57969F94-E77E-4523-BCBB-370C1785CC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57969F94-E77E-4523-BCBB-370C1785CC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57969F94-E77E-4523-BCBB-370C1785CC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57969F94-E77E-4523-BCBB-370C1785CC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D42BC8A-6E22-45A3-B5F5-552C85EE6D7A}.Debug|Any CPU.ActiveCfg = Debug
+		{4D42BC8A-6E22-45A3-B5F5-552C85EE6D7A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28BCE1A-C82D-421B-A2E9-4C1F2353C065}
+	EndGlobalSection
+EndGlobal
