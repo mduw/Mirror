@@ -1,4 +1,4 @@
 # Mirror
-Using C# to create a simple mirror reflecting of one's image that is drawn on the opposite window. 
-For example, inputing MIT, output as TIM 
+Source code for simple app called "mirror" using .NET and C#. Input image is drawn on one windows and 180 reflected on opposite window.
+For example, draw MIT ==> see TIM. 
 
